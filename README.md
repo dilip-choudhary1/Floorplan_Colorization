@@ -4,7 +4,7 @@
 
 This project aims to automatically colorize architectural floorplans using deep learning techniques. By leveraging the power of TensorFlow 2 and a custom neural network architecture, this tool enhances the visual appeal of black-and-white floorplans.
 
-![Sample Colorization](images/sample_colorization.png)
+![Sample Colorization](download.png)
 
 ## Table of Contents
 
