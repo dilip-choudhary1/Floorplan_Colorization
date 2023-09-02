@@ -6,13 +6,6 @@ This project aims to automatically colorize architectural floorplans using deep 
 
 ![Sample Colorization](download.png)
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
